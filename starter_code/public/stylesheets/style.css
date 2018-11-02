@@ -1,53 +1,36 @@
 body {
   padding: 50px;
-  background-image: url('/images/cinema.jpg');
+  background-image: url("/images/cinema.jpg");
   background-repeat: no-repeat;
   background-size: cover;
-  font: 14px "Lucida Grande", Helvetica, Arial, sans-serif;
-
-
-}
-
-;
+  font: 14px "Lucida Grande", Helvetica, Arial, sans-serif; }
 
 a {
-  color: #00B7FF;
-}
+  color: #00B7FF; }
 
 .title {
   width: 100%;
   display: grid;
   justify-content: flex-end;
-  flex-direction: column;
-
-
-}
+  flex-direction: column; }
 
 .title h1 {
   color: white;
-  font-size: 100px;
-
-
-}
+  font-size: 100px; }
 
 .movie-btn {
   background-color: #fff;
-  ;
   border-radius: 25px;
   padding: 10px;
   width: 50%;
-  font-size: 20px;
-}
+  font-size: 20px; }
 
 .movie-btn:hover {
-  background-color: red;
-}
+  background-color: red; }
 
 .movie-btn a {
-  text-decoration: none
-  
-}
+  text-decoration: none; }
 
-
+/*# sourceMappingURL=style.css.map */
 
 /*# sourceMappingURL=style.css.map */
